@@ -27,15 +27,15 @@ http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
 
-#EXTINF:-1,tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" group-title="苏州",苏州新闻综合
+#EXTINF:-1 logo="" group-title="苏州",苏州新闻综合
 https://2061827165.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=eKMAAI0cmyToXkIX&secondToken=secondToken%3AsEj7M6ZMXHP0lnpR0iX0B8c4XjU&streamid=ksz-norecord%3Aksz-norecord%2Fncsztv1_sd&v3=1
-#EXTINF:-1,tvg-id="苏州社会经济" tvg-name="苏州社会经济" group-title="苏州",苏州社会经济
+#EXTINF:-1 logo="" group-title="苏州",苏州社会经济
 https://2061827165.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=eKMAAM4hKhYAX0IX&secondToken=secondToken%3A8080dLmwauKj1G5K5vVKCLxpEsI&streamid=ksz-norecord%3Aksz-norecord%2Fncsztv2_sd&v3=1
-#EXTINF:-1,tvg-id="苏州文化生活" tvg-name="苏州文化生活" group-title="苏州",苏州文化生活
+#EXTINF:-1 logo="" group-title="苏州",苏州文化生活
 https://2061827165.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=eKMAAEgFQYMDX0IX&secondToken=secondToken%3AH7slOtUrGyTNrfNAuqs420ze6w4&streamid=ksz-norecord%3Aksz-norecord%2Fncsztv3_sd&v3=1
-#EXTINF:-1,tvg-id="苏州电影娱乐" tvg-name="苏州电影娱乐" group-title="苏州",苏州电影娱乐
+#EXTINF:-1 logo="" group-title="苏州",苏州电影娱乐
 https://2061827165.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=eKMAALvhsBcFX0IX&secondToken=secondToken%3AbAtUjQtkPk_8DPy8BWMHaFDP5ag&streamid=ksz-norecord%3Aksz-norecord%2Fncsztv4_sd&v3=1
-#EXTINF:-1,tvg-id="苏州4K高清" tvg-name="苏州4K高清" group-title="苏州",苏州4K高清
+#EXTINF:-1 logo="" group-title="苏州",苏州4K高清
 http://2061827157.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=Y3EAAAHbskcMX0IX&secondToken=secondToken%3A4XT5HY8sH6Ggme8Z2rRH0F89Jms&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
 
 
