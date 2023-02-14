@@ -38,6 +38,19 @@ https://2061827165.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=eK
 #EXTINF:-1 logo="" group-title="苏州",苏州4K高清
 http://2061827157.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=Y3EAAAHbskcMX0IX&secondToken=secondToken%3A4XT5HY8sH6Ggme8Z2rRH0F89Jms&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
 
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合 
 https://live.v1.mk/aishang/cctv1hd
