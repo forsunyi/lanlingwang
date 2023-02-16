@@ -14,6 +14,21 @@ http://159.75.85.63:5680/d/ad/playad.m3u8
 
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",劲爆体育
 http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",劲爆体育 8M
+https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png" group-title="上海",上视新闻 8M
+https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市 8M
+https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实 8M
+https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="其他",东方影视 8M
+https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="其他",五星体育 8M
+https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实 8M
+https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
 
 #EXTINF:-1 logo="" group-title="" ,凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -26,6 +41,11 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
+
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云 8M
+https://live.v1.mk/api/bestv.php?id=yxfy8m/8000000
+#EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="其他",电竞天堂 8M
+https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
 
 #EXTINF:-1 logo="" group-title="苏州",苏州新闻综合
 https://2061827165.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=eKMAAI0cmyToXkIX&secondToken=secondToken%3AsEj7M6ZMXHP0lnpR0iX0B8c4XjU&streamid=ksz-norecord%3Aksz-norecord%2Fncsztv1_sd&v3=1
